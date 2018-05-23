@@ -1,0 +1,8 @@
+#md-main-navbar {
+	background: #ff8100;
+	border-color: #999;
+}
+
+.navbar-default .navbar-nav > .active > a {
+	background: #F00;
+}
