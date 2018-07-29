@@ -1,4 +1,4 @@
-![](logo.png)
+[![](logo.png)](/)
 [gimmick:theme](flatly)
 
 [Forside](index.md)
