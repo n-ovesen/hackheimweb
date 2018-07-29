@@ -32,3 +32,5 @@ Vi bryr oss ikke om utdanning, alder, kjønn eller etnisitet. Vi er her for å v
 Så om du er nysgjerrig besøk oss og om du har sansen for oss setter vi stor pris på dugnadsinnsats, innspill, deltakelse på spennende prosjekter og et aktivt medlemsskap.
 
 Happy hacking!
+
+![](img/laser.jpg)
