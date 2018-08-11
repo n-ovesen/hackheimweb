@@ -15,6 +15,7 @@
   * [3D Printer](wiki/3dprint.md)
   * [Laserkutter](wiki/laser.md)
   * [Andre Verktøy](wiki/tools.md)
+  * [Komponenter](wiki/komponenter.md)
   - - - -
   * [Howto](wiki/howto.md)
   - - - -
