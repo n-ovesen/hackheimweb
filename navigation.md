@@ -23,4 +23,5 @@
   * [Pågående](wiki/paagaaende.md)
   * [Fullførte](wiki/fullfoerte.md)
 
+[Sponsors](sponsors.md)
 [Kontakt oss](kontakt.md)
