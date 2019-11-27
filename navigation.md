@@ -17,11 +17,8 @@
   * [Andre Verktøy](wiki/tools.md)
   * [Komponenter](wiki/komponenter.md)
   - - - -
-  * [Howto](wiki/howto.md)
-  - - - -
-  * # Prosjekter
-  * [Pågående](wiki/paagaaende.md)
-  * [Fullførte](wiki/fullfoerte.md)
+  * # Guides
+  * [Sourcing](wiki/sourcing.md)
 
 [Sponsors](sponsors.md)
 [Kontakt oss](kontakt.md)
