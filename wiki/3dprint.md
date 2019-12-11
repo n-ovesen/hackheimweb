@@ -36,4 +36,3 @@ Videre så velger du hvilken printer du skal printe på og gjør eventuelle just
 - Bytte rundt på printplatene, hver printer er kalibrert til hver sin plate og om du stokker om på de blir det fort kaos med kalibrering og så videre for neste bruker.
 - printplatene skal **IKKE** rengjøres med annet enn blåjiff eller eventuelt blåsprit om plata er skikkelig skitten.
 - Bruk printern om du ikke har peiling, spør noen som har peiling først!
-- 
