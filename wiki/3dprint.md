@@ -7,7 +7,7 @@ På hackheim har vi tre stk Prusa i3, en MK3 og to stk. MK3S.
 
 || Modell       | Dyse  | Bed        |
 |-| ------------ | ----- | ---------- |
-| Prusa 1 | Prusa i3 MK3 | 0.6mm | Smooth PEI |
+| **Prusa 1** | Prusa i3 MK3 | 0.6mm | Smooth PEI |
 
 ## Hvordan printer jeg?
 
