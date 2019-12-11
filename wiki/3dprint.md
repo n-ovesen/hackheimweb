@@ -24,11 +24,15 @@ For å printe så importerer du .stl eller .3mf filen du har enten lagd eller la
 
 Videre så velger du hvilken printer du skal printe på og gjør eventuelle justeringer av innstillinger og velger filament, klikker "slice" og "send to printer" og voilla! printen setter igang.
 
+Det som ligger inn av profiler i Prusaslicer funker finfint i de aller fleste tilfeller så det skal være lite behov for å knote mye før man setter igang en print.
+
 ### Do's
 
 - Lag kule ting!
 - Bytt plast om du vil printe i andre farger/materialer
 - Hold et øye med printen mens den går, du trenger ikke å stirre på printen konsekvent, men vi forventer at du er på huset mens printeren går.
+- Sjekk estimert print-tid i Prusaslicer før du starter printen slik at du ikke starter en aaaaaalt for lang print uten at du kan følge med den.
+- Sjekk hvilket filament som står i printeren før du slicer og starter jobben.
 
 ### Don'ts
 
