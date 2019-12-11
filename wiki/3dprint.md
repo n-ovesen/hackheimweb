@@ -7,7 +7,7 @@
 	Prusa 1:
 	
 	| Modell       | Dyse  | Bed        |
-	| ------------ |:-----:| ----------:|
+	| ------------ | ----- | ---------- |
 	| Prusa i3 MK3 | 0.6mm | Smooth PEI |
 
 ## Hvordan printer jeg?
